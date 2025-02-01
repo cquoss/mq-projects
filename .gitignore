@@ -1,1 +1,5 @@
+# Apache Maven
 /mq-project-client/target/
+
+# Apache NetBeans
+/mq-project-client/nbactions.xml
