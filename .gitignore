@@ -3,3 +3,6 @@
 
 # Apache NetBeans
 /mq-project-client/nbactions.xml
+
+# JetBrains IntelliJ IdeaIU
+/.idea/
