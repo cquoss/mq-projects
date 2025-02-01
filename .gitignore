@@ -6,3 +6,5 @@
 
 # JetBrains IntelliJ IdeaIU
 /.idea/
+/mq-project-root.iml
+/mq-project-client/mq-project-client.iml
